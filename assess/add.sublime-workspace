@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"db",
+				"dbname"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/crud2/form.php",
+		"/var/www/html/crud2/index.php",
+		"/var/www/html/crud2/login.php",
+		"/var/www/html/assess/login.php",
+		"/var/www/html/test/login.php",
+		"/var/www/html/admin/connection.php",
+		"/var/www/html/admin/login.html",
+		"/var/www/html/admin/register.php",
+		"/var/www/html/admin/maincontent.php",
+		"/var/www/html/admin/login.php",
+		"/var/www/html/admin/index.php",
+		"/var/www/html/admin/footer.php",
+		"/var/www/html/admin/data.php",
+		"/var/www/html/crud2/register.php",
+		"/var/www/html/crud2/connection.php",
+		"/var/www/html/admin/config.php",
+		"/var/www/html/admin/header.php",
+		"/var/www/html/admin/sidebar.php",
+		"/var/www/html/admin/charts.html",
+		"/var/www/html/admin/utilities-animation.php",
+		"/var/www/html/test3/insert.php",
+		"/var/www/html/test3/form.php",
+		"/var/www/html/form/process.php",
+		"/var/www/html/test1/server.php",
+		"/var/www/html/test1/index.php",
+		"/var/www/html/test1/register.php",
+		"/var/www/html/form/static.php",
+		"/var/www/html/form/cookie.php",
+		"/var/www/html/form/loggedinuser.php",
+		"/var/www/html/form/login.php",
+		"/var/www/html/crud1/login.php",
+		"/var/www/html/crud1/logout.php",
+		"/var/www/html/crud1/session.php",
+		"/var/www/html/crud1/welcome.php",
+		"/var/www/html/crud1/config.php",
+		"/var/www/html/CRUD/index.php",
+		"/var/www/html/CRUD/indexx.php",
+		"/var/www/html/CRUD/login.php",
+		"/var/www/html/task1/index.php",
+		"/var/www/html/test/register.php",
+		"/var/www/html/test/server1.php",
+		"/var/www/html/test/server.php",
+		"/var/www/html/test/index.php",
+		"/var/www/html/test1/errors.php",
+		"/var/www/html/test/new.php",
+		"/var/www/html/task1/edit.php",
+		"/var/www/html/task1/demo.php",
+		"/var/www/html/lastform.php",
+		"/var/www/html/index.php",
+		"/var/www/html/CRUD/logout.php",
+		"/var/www/html/CRUD/register.php",
+		"/var/www/html/CRUD/conn.php",
+		"/var/www/html/CRUD/connection.php",
+		"/var/www/html/CRUD/modify.php",
+		"/var/www/html/task1/new.php",
+		"/var/www/html/task2/modifier.php",
+		"/var/www/html/task2/destruct.php",
+		"/var/www/html/task2/constructor.php",
+		"/var/www/html/session/const.php",
+		"/var/www/html/session/start.php",
+		"/var/www/html/session/destroy.php",
+		"/var/www/html/session/variable.php",
+		"/var/www/html/session/untitled.php",
+		"/var/www/html/session/filter.php",
+		"/var/www/html/session/modify.php",
+		"/var/www/html/session/cookie.php",
+		"/var/www/html/task1/cookie.php",
+		"/var/www/html/task1/delete.php",
+		"/var/www/html/task1/add.php",
+		"/var/www/html/adminer.php",
+		"/var/www/html/list.php",
+		"/var/www/html/ui.php",
+		"/var/www/html/delete.php",
+		"/var/www/html/data1.php",
+		"/var/www/html/database.php",
+		"/var/www/html/insert.php",
+		"/var/www/html/db.php",
+		"/var/www/html/createdb.php",
+		"/var/www/html/request.php",
+		"/var/www/html/server.php",
+		"/var/www/html/personalform.php",
+		"/var/www/html/welcome.php",
+		"/var/www/html/completeform.php",
+		"/var/www/html/fromsubmit.php",
+		"/var/www/html/mix.php",
+		"/var/www/html/forwhileloop.php",
+		"/var/www/html/loop.php",
+		"/var/www/html/switch.php",
+		"/var/www/html/loop\\.php",
+		"/var/www/html/age.php",
+		"/var/www/html/addsub.php",
+		"/var/www/html/function.php",
+		"/var/www/html/add.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "add.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
